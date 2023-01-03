@@ -1,1 +1,1 @@
-write a code that displays 98 Battery Street usinng f string.
+using an f string to print a vriable containing a float to 2 decimal places
