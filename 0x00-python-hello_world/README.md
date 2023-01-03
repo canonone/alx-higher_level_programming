@@ -1,1 +1,1 @@
-Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+write a code that displays 98 Battery Street usinng f string.
