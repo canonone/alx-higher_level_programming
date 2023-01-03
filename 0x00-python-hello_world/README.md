@@ -1,1 +1,1 @@
-using an f string to print a vriable containing a float to 2 decimal places
+write a code to print "Holberton School" 3 times followed by a new line, print the first 9 characters in the string.
