@@ -1,1 +1,1 @@
-Write a function that computes a to the power of b and return the value.
+Write a function that prints the numbers from 1 to 100 separated by a space.For multiples of three print Fizz instead of the number and for multiple of five print Buzz.For numbers which are multiples of both three and five print FizzBuzz.
