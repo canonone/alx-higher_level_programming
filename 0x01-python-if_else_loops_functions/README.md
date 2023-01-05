@@ -1,1 +1,1 @@
-Write a function that prints the numbers from 1 to 100 separated by a space.For multiples of three print Fizz instead of the number and for multiple of five print Buzz.For numbers which are multiples of both three and five print FizzBuzz.
+Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
