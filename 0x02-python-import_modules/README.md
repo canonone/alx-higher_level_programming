@@ -1,1 +1,1 @@
-Write a program that prints the number of and the list of its arguments.
+Write a program that prints all the names defined by the compiled module hidden_4.pyc (please download it locally)
