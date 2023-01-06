@@ -1,1 +1,1 @@
-Write a program that handles basic arithmetic operations.
+Write a program that prints #pythoniscool, followed by a new line, in the standard output.
