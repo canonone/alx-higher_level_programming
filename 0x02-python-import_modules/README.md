@@ -1,1 +1,1 @@
-Write a program that prints the alphabet in uppercase, followed by a new line.
+Write a program that prints the number of and the list of its arguments.
